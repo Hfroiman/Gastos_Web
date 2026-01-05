@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hfroi\\OneDrive\\Documentos\\Github\\BACK-END\\Practica_Curso\\Web-Gastos\\Web-Gastos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0656D90-D29B-4AD2-9A35-3727A1A2028C}|Web-Gastos.csproj|c:\\users\\hfroi\\onedrive\\documentos\\github\\back-end\\practica_curso\\web-gastos\\web-gastos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0656D90-D29B-4AD2-9A35-3727A1A2028C}|Web-Gastos.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0656D90-D29B-4AD2-9A35-3727A1A2028C}|Web-Gastos.csproj|c:\\users\\hfroi\\onedrive\\documentos\\github\\back-end\\practica_curso\\web-gastos\\web-gastos\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0656D90-D29B-4AD2-9A35-3727A1A2028C}|Web-Gastos.csproj|solutionrelative:views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0656D90-D29B-4AD2-9A35-3727A1A2028C}|Web-Gastos.csproj|c:\\users\\hfroi\\onedrive\\documentos\\github\\back-end\\practica_curso\\web-gastos\\web-gastos\\views\\home\\createeditexpenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0656D90-D29B-4AD2-9A35-3727A1A2028C}|Web-Gastos.csproj|solutionrelative:views\\home\\createeditexpenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateEditExpenses.cshtml",
+              "DocumentMoniker": "C:\\Users\\hfroi\\OneDrive\\Documentos\\Github\\BACK-END\\Practica_Curso\\Web-Gastos\\Web-Gastos\\Views\\Home\\CreateEditExpenses.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CreateEditExpenses.cshtml",
+              "ToolTip": "C:\\Users\\hfroi\\OneDrive\\Documentos\\Github\\BACK-END\\Practica_Curso\\Web-Gastos\\Web-Gastos\\Views\\Home\\CreateEditExpenses.cshtml",
+              "RelativeToolTip": "Views\\Home\\CreateEditExpenses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T13:42:05.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Expenses.cshtml",
+              "DocumentMoniker": "C:\\Users\\hfroi\\OneDrive\\Documentos\\Github\\BACK-END\\Practica_Curso\\Web-Gastos\\Web-Gastos\\Views\\Home\\Expenses.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Expenses.cshtml",
+              "ToolTip": "C:\\Users\\hfroi\\OneDrive\\Documentos\\Github\\BACK-END\\Practica_Curso\\Web-Gastos\\Web-Gastos\\Views\\Home\\Expenses.cshtml",
+              "RelativeToolTip": "Views\\Home\\Expenses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T13:42:03.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hfroi\\OneDrive\\Documentos\\Github\\BACK-END\\Practica_Curso\\Web-Gastos\\Web-Gastos\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hfroi\\OneDrive\\Documentos\\Github\\BACK-END\\Practica_Curso\\Web-Gastos\\Web-Gastos\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:44:48.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
